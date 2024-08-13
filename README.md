@@ -1,0 +1,1 @@
+You can find my ERD png file as well as the 2 sql files within my EmployeeSQL folder.  You can use the table schemata file to view how I setup the tables and the foreign key constraints.  You can then view the employee analysis sql file to see how I used SQL to slice and dice the data into the expected results.
